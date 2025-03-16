@@ -1,97 +1,72 @@
+# 👋 Hi, I'm Rahul Chauhan! 🚀
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F7B93E&center=true&vCenter=true&width=435&lines=AI+%7C+ML+%7C+Data+Science;Software+Developer;Python+%7C+C%2B%2B+%7C+SQL;Open+Source+Contributor)
+
+## 🌍 About Me
+
+- 🎓 Pursuing **B.Tech in Artificial Intelligence & Data Science** at **Thakur College of Engineering and Technology, Mumbai** (CGPA: **9.41**)  
+- 💡 Passionate about **Machine Learning, Deep Learning, NLP, and AI-driven applications**
+- 🔭 Currently exploring **LangChain, Hugging Face & Generative AI**
+- 💼 Open to internships, collaborations, and exciting opportunities!
+- 💬 Ask me anything about **AI, ML, Python, and Open Source**
+- 📫 Reach me at **rahulchauhan4708@gmail.com**
+
+## 🛠 Technical Skills
+
+**Languages:**  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+
+**Frameworks & Libraries:**  
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=Flask&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat-square&logo=Scikit-learn&logoColor=white)
+
+**Developer Tools:**  
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white) ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white)
+
+## 💼 Experience
+
+### 🚀 Machine Learning Intern @ CodSoft *(Dec 2023 – Jan 2024)*
+- Built a **Django web application** for real-time ML predictions, improving accessibility by **40%**.
+- Processed **10,000+ rows of datasets**, optimizing feature selection & reducing preprocessing time by **30%**.
+- Implemented supervised & unsupervised ML models achieving **95% accuracy** and reducing prediction time by **20%**.
+
+## 🚀 Projects
+
+### 🎯 [CareerVision.ai](https://github.com/Rahul4112002/CareerVision.ai) *(Django, SQLite3, Tailwind CSS, Deep Learning, Adzuna API)*
+- Developed an interactive **career prediction platform** analyzing **20,000+ data entries**.
+- Integrated **MLP Classifier** achieving **80% accuracy** in predicting suitable careers.
+- Implemented **real-time job listings** via **Adzuna API** for career guidance.
+
+### 📊 [StockVision](https://github.com/Rahul4112002/StockVision) *(Python, Django, LSTM, Time Series, Data Visualization, Machine Learning)*
+- Built an **LSTM-based stock trend prediction system** for real-time forecasts.
+- Optimized **Yahoo Finance API data cleaning** & improved preprocessing efficiency by **20%**.
+- Integrated **interactive visualizations** (candlestick charts, moving averages) for insights.
+
+### 🍽️ [RecipePro.ai](https://github.com/Rahul4112002/RecipePro.ai) *(Django, LangChain, Tailwind CSS, Google Generative AI)*
+- Designed an **AI-powered recipe generator**, handling **50+ unique queries** with **95% response accuracy**.
+- Integrated **Google Generative AI (Gemini)** for personalized recommendations.
+- Enhanced **UI/UX with Tailwind CSS**, reducing load time **to under 5 seconds**.
+
+## 🏆 Certifications
+
+- 🏅 **Python 101 for Data Science** – IBM  
+- 🏅 **Basics of Data Structures and Algorithms** – Simplilearn  
+- 🏅 **Flask Python** – Great Learning  
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rahul4112002&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rahul4112002&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul4112002&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+## 🌐 Connect with Me
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahulchauhan4708@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rahul-chauhan-932522230/)  
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rahul4112002)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/r4hul.off)
 
 ---
 
-# 👋 Hi there, I'm Rahul Chauhan!
+⭐ **Star my repositories if you find them useful!** ⭐
 
-**🌍 Location:** Mumbai, Maharashtra, India  
-**📧 Email:** rahulchauhan4708@gmail.com  
-**💼 LinkedIn:** [Rahul Chauhan](https://www.linkedin.com/in/rahul-chauhan-932522230/)  
-**🐱 GitHub:** [Rahul4112002](https://github.com/Rahul4112002)
-
----
-
-## 🎓 **Education**
-
-- **B.Tech in Artificial Intelligence and Data Science**  
-  Thakur College of Engineering and Technology, Mumbai  
-  **CGPA:** 9.41 (2021–2025)  
-
-- **HSC Board Examination**  
-  Sardar Vallabhbhai Patel Vidyalaya, Mumbai  
-  **Percentage:** 84.83% (2020–2021)
-
----
-
-## 💻 **Technical Skills**
-
-- **Languages:** Python, C++, SQL  
-- **Frameworks & Libraries:** Flask, Django, TensorFlow, Scikit-learn, LangChain, Hugging Face  
-- **Developer Tools:** VS Code, Jupyter Notebook, Git/GitHub, Postman, PowerBI  
-- **Knowledge Areas:** OOPS, DBMS, DSA, Machine Learning, NLP  
-
----
-
-## 💼 **Experience**
-
-### **Machine Learning Intern**  
-**CodSoft** *(Dec 2023 – Jan 2024)*  
-- Achieved **95% accuracy** in supervised and unsupervised ML models for classification tasks.  
-- Reduced preprocessing time by **30%** through data optimization.  
-- Enhanced model prediction time by **20%** with scalable ML algorithms.  
-- Delivered three ML projects within tight deadlines, collaborating with a team of five.  
-- Tools Used: Python, TensorFlow, Keras, Scikit-learn, Pandas, NumPy.  
-
----
-
-## 🚀 **Projects**
-
-### [RecipePro.ai](https://recipepro-ai.onrender.com)  
-*(Django, LangChain, Tailwind CSS, Google Generative AI)*  
-- Built an **AI-driven recipe recommendation system** with Google Gemini integration.  
-- Achieved **95% accuracy** in query responses and enhanced user satisfaction by **30%**.  
-- Designed a responsive interface using **Tailwind CSS** for improved UX.  
-- [🔗 Project Repository](https://github.com/Rahul4112002/RecipePro.ai)  
-
-### [Diamond Price Prediction](https://github.com/Rahul4112002/Diamond-Price-Prediction)  
-*(Flask, Python, ML, HTML/CSS)*  
-- Developed an **end-to-end ML pipeline** with **91.89% accuracy** in price prediction.  
-- Reduced feature engineering time by **25%** and improved user prediction speed by **30%**.  
-
-### [StockVision](https://github.com/Rahul4112002/StockVision)  
-*(Python, Django, LSTM, Data Visualization)*  
-- Created a stock trend prediction system using **LSTM**, achieving real-time predictions.  
-- Enhanced preprocessing by **20%** and integrated interactive visualizations like candlestick charts.  
-
-### [OfficeTrack](https://officetrack.onrender.com)  
-*(Django, Tailwind CSS, Python)*  
-- Built a **space management system** for offices, reducing manual effort by **70%**.  
-- Ensured **99.9% uptime** and responsive design with Tailwind CSS.  
-- [🔗 Project Repository](https://github.com/Rahul4112002/OfficeTrack)  
-
----
-
-## 🏆 **Certifications**
-
-- **Python 101 for Data Science** – IBM  
-- **Basics of Data Structures and Algorithms** – Simplilearn  
-- **Flask Python** – Great Learning  
-
----
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Rahul4112002&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Rahul4112002&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul4112002&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
----
-
-## 🌐 **Social Links**
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/r4hul.off) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rahul-chauhan-932522230/) 
-
----
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-
----
+🚀 **Let's build something amazing together!**
